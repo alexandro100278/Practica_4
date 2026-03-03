@@ -1,7 +1,9 @@
 body {
-    background-color: white;
+
+    background-color: #f4f4f4;
     /* Cambiar a #f4f4f4 */
-    font-family: serif;
+    font-family: sans-serif;
+
     /* Cambiar a sans-serif */
     color: #333;
     margin: 0;
